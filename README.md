@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Business Analyst. <br>👯 I’m looking to collaborate on Computer Science related projects.<br>🌱 I’m currently learning Python and Data Science.<br>⚡ Fun fact: In my mind, I'm a retired professional e-sports player.
+🔭 I’m currently working as a Data Analyst. <br>👯 I’m looking to collaborate on Computer Science related projects.<br>🌱 I’m currently learning Python and Data Science.<br>⚡ Fun fact: In my mind, I'm a retired professional e-sports player.
 
 
 ## 🌐 Socials:
